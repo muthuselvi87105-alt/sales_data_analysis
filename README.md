@@ -38,7 +38,11 @@ Columns:
 - Add regression model for predicting sales amount.  
 - Try other classifiers (Logistic Regression, SVM, XGBoost).  
 - Perform feature engineering (e.g., time-based features).  
-- Hyperparameter tuning for better accuracy.  
+- Hyperparameter tuning for better accuracy.
+
+🛠️ Requirements
+Python 3.11+
+Libraries: pandas, scikit-learn, seaborn, matplotlib
 
 
 
