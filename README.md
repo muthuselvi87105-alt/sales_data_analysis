@@ -41,8 +41,8 @@ Columns:
 - Hyperparameter tuning for better accuracy.
 
 🛠️ Requirements
-Python 3.11+
-Libraries: pandas, scikit-learn, seaborn, matplotlib
+-Python 3.11+
+-Libraries: pandas, scikit-learn, seaborn, matplotlib
 
 
 
